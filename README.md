@@ -27,6 +27,13 @@ A community-curated directory of great `llms.txt` files, tools, and best practic
 - **Templates** and writing tips for high-quality `llms.txt` documents  
 - **Tooling pointers** to generate or validate `llms.txt` from sitemaps or docs trees
 
+## Templates
+
+Check out our [templates directory](./templates/) for ready-to-use `llms.txt` templates for different types of projects:
+- [Software Library Template](./templates/software-library-template.md)
+- [API Documentation Template](./templates/api-documentation-template.md)
+- [Documentation System Template](./templates/documentation-system-template.md)
+
 ---
 
 ## How to write a good `llms.txt`
