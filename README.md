@@ -150,4 +150,5 @@ Keep it short and intentional:
 - Mintlify Docs — https://mintlify.com/docs/llms-full.txt
 - PostHog — https://posthog.com/llms.txt
 - Svelte MCP (overview) — https://svelte.dev/docs/mcp/overview/llms.txt
+- Better-auth https://www.better-auth.com/llms.txt
 
